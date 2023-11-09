@@ -1,0 +1,5 @@
+/config/cert
+/public/.well-known
+/public/uploads
+/vendor/xin
+/.idea

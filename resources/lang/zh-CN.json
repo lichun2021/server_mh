@@ -1,0 +1,19 @@
+{
+    "Title": "标题",
+    "Name": "名称",
+    "Dura": "外观",
+    "Lv": "品质",
+    "Cover": "封面",
+    "Type": "类型",
+    "Sort": "排序",
+    "Odds": "显示爆率",
+    "Real odds": "爆率",
+    "Anchor odds": "爆率(主播)",
+    "Luck odds": "幸运物品爆率",
+    "Game odds": "对战爆率",
+    "Game anchor odds": "对战爆率(主播)",
+    "Is luck": "幸运物品",
+    "Status": "状态",
+    "Created at": "创建时间",
+    "Updated at": "最后更新"
+}
