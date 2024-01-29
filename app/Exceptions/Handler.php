@@ -72,7 +72,7 @@ class Handler extends ExceptionHandler
                     //Log::error($exception->getMessage());
                     return response()->json([
                         'code' => 500,
-                        'message' => 'Sql Error'
+                        'message' => 'Sql Error'.$exception->getMessage()
                     ]);
                 case $exception instanceof MethodNotAllowedHttpException:
                     return response()->json([

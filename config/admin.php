@@ -1,6 +1,6 @@
 <?php
 
-$prefix = 'dbscsgo_1015_admin';
+$prefix = 'admin_test';
 
 return [
 
